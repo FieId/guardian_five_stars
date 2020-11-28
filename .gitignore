@@ -24,4 +24,6 @@ jhw.*
 dist/
 generated/
 .vendor/
-
+database.yml
+env.json
+**/*.sql
